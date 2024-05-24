@@ -6,6 +6,9 @@ body {
   background-color: #eae2b7;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
+  display: flex;   
+  flex-direction: column;   
+  align-items: center;
 }
 
 .subheading {
