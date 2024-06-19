@@ -9,10 +9,11 @@ body {
   display: flex;   
   flex-direction: column;   
   align-items: center;
+  text-align: center;
 }
 
 .subheading {
-  text-align:center;
+  text-align: center;
 }
 
 nav {
@@ -42,7 +43,7 @@ h1 {
 h2 {
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
-  font-size: 2em;
+  font-size: 4em;
 }
 
 h3 {
