@@ -64,6 +64,7 @@ article div {
 
 p {
   line-height: 1;
+  text-align: center;
 }
 
 /* The div container constrains the content width within the main container to 600px */
