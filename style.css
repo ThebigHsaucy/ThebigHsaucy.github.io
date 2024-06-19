@@ -68,6 +68,7 @@ p {
 }
 .about-section {
   text-align: center;
+  padding: 20px;
 }
 
 /* The div container constrains the content width within the main container to 600px */
