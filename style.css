@@ -65,10 +65,13 @@ article div {
 p {
   line-height: 1;
   text-align: center;
+  padding: 20px;
 }
 .about-section {
   text-align: center;
   padding: 20px;
+  display: inline-block;
+  marign-right: 20px;
 }
 
 /* The div container constrains the content width within the main container to 600px */
