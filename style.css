@@ -71,7 +71,17 @@ p {
   text-align: center;
   padding: 20px;
   display: inline-block;
-  marign-right: 20px;
+  vertical align: top;
+  margin-left: 20px;
+  text-align:left;
+  list-style-position: inside;
+  padding left: 20px;
+}
+
+.selection-below-list {
+  padding: 20px;
+    margin: 0 auto;
+    max-width: 600px;
 }
 
 /* The div container constrains the content width within the main container to 600px */
