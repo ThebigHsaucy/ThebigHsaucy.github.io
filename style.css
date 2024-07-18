@@ -40,6 +40,14 @@ h1 {
   font-size: 4em;
 }
 
+.separator {
+  display: inline-block;
+  width: 5px;
+  height: 0.8em;
+  background-color: black;
+  margin: 0 10px;
+}
+
 h2 {
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
